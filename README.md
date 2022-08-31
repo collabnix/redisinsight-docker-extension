@@ -1,0 +1,1 @@
+# redisinsight-docker-extension
