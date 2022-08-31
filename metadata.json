@@ -1,0 +1,19 @@
+{
+  "icon": "docker.svg",
+  "vm": {
+    "composefile": "docker-compose.yaml",
+    "exposes": {
+      "socket": "extension-my-extension.sock"
+    }
+  },
+  "ui": {
+    "dashboard-tab": {
+      "title": "RedisInsight",
+      "src": "index.html",
+      "root": "ui",
+      "backend": {
+        "socket": "extension-my-extension.sock"
+      }
+    }
+  }
+}
