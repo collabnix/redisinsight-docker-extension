@@ -77,6 +77,13 @@ Please replace the host address with your local IP address. Click "Add Database"
 ### Step 5. Select the right database to view the dashboard UI.
  
  <img width="1055" alt="image" src="https://user-images.githubusercontent.com/313480/188199604-69dd8f2d-7de3-4a6f-b35b-96635d9cfd05.png">
+ 
+ 
+ ### Step 6. View the Keys
+ 
+ <img width="1173" alt="image" src="https://user-images.githubusercontent.com/313480/188200043-e49f0bbb-3abd-4b81-bb9a-1a307485636c.png">
+
+ 
 
  
 ## Connecting to the Remote Database (Redis Enterprise Cloud)
