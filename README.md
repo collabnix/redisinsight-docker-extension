@@ -1,9 +1,13 @@
 # RedisInsight Docker Extension
 
 
+![image](https://user-images.githubusercontent.com/313480/188182363-e7eac107-7a9d-40c3-9622-688252747611.png)
+
+
+
 > This is Work-in-progress
 - [x] Building Compose File
-- [ ] Constructing UI
+- [x] Constructing UI
 - [ ] Final Testing
 
 
