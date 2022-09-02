@@ -42,6 +42,8 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
  
  ## Navigation
  
+ Open Docker Dashboard to see RedisInsight Extension already up and running.
+ 
  ## Step 1. Connect to the remote Redis Cloud
  
  
