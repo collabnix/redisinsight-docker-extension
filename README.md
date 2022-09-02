@@ -57,3 +57,8 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
 
  ```
  
+ ## Step 3. Viewing the Keys
+ 
+ <img width="1257" alt="image" src="https://user-images.githubusercontent.com/313480/188184985-2c4d24fa-ad39-4827-9eaa-2e6407ac8c6f.png">
+
+ 
