@@ -1,5 +1,10 @@
 # RedisInsight Docker Extension
 
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/313480/188188018-a1976ed0-75cc-4bc2-a5df-7f67abaf9ebe.png">
+
+
+
+
 RedisInsight is an intuitive and efficient GUI for Redis. It allows developers to interact with your databases and manage your data—with built-in support for most popular Redis modules. 
 
 It is an open source Redis GUI tool that allows you to visualise, monitor, and optimize while developing your applications with Redis.
