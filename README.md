@@ -26,20 +26,20 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
 
 ## Getting Started
 
-## Clone the repository
+## 1. Clone the repository
 
 
 ```shell
  git clone https://github.com/collabnix/redisinsight-docker-extension
 ```
 
-## Build the Extension
+## 2. Build the Extension
 
 ```shell
  make build-extension
 ```
 
-## Install the Extension
+## 3. Install the Extension
 
 ```shell
  docker extension install <name-of-extension>
