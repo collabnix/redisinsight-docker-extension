@@ -1,15 +1,23 @@
-version: '3'
+
 services:
   redis:
     image: redislabs/redismod
     ports:
       - 6379:6379
+    networks:
+      - redisnet
   redisinsight:
     image: redislabs/redisinsight:latest
     ports:
       - '8001:8001'
     volumes:
       - redisinsight_db:/db
+    networks:
+      - redisnet
 
 volumes:
   redisinsight_db: 
+  
+  
+networks:
+  redisnet:
