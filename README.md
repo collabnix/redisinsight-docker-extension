@@ -45,9 +45,42 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
  docker extension install <name-of-extension>
  ```
  
- ## Navigation
  
  Open Docker Dashboard to see RedisInsight Extension already up and running.
+ 
+ ## Connecting to the Local Redis Database
+ 
+ ### Step 1. Toggle to agree to the license terms and click "Confirm"
+ 
+ <img width="1157" alt="image" src="https://user-images.githubusercontent.com/313480/188198634-c51317d3-2379-4b64-953f-2e315861503d.png">
+
+### Step 2. Select "I already have database"
+ 
+ <img width="1029" alt="image" src="https://user-images.githubusercontent.com/313480/188198988-b558c249-fa76-4de5-871c-c905bb5a3af3.png">
+
+
+### Step 3. Enter the local database details to connect to Redis Database
+
+This extensions runs local Redis database too. It is included for testing purpose.
+Click "Connect to Redis Database" and enter the values
+
+<img width="1015" alt="image" src="https://user-images.githubusercontent.com/313480/188199135-23fe66a6-a6b6-46e3-be5c-b6bb5fe7a680.png">
+
+## Step 4. Enter your host details. 
+
+Please replace the host address with your local IP address. Click "Add Database".
+
+ 
+ <img width="952" alt="image" src="https://user-images.githubusercontent.com/313480/188199352-98c13515-7869-44eb-ae0c-dbec6ab9a052.png">
+
+
+### Step 5. Select the right database to view the dashboard UI.
+ 
+ <img width="1055" alt="image" src="https://user-images.githubusercontent.com/313480/188199604-69dd8f2d-7de3-4a6f-b35b-96635d9cfd05.png">
+
+ 
+## Connecting to the Remote Database (Redis Enterprise Cloud)
+
  
  ## Step 1. Connect to the remote Redis Cloud
  
