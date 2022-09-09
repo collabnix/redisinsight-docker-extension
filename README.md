@@ -26,6 +26,11 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
 
 ## Getting Started
 
+### Pre-requisite
+
+- Docker Desktop 4.12
+
+
 ## 1. Clone the repository
 
 
