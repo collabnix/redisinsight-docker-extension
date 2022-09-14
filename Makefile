@@ -1,4 +1,4 @@
-IMAGE?=ajeetraina/redisinsight
+IMAGE?=ajeetraina/redisinsight-docker-extension
 TAG?=latest
 
 BUILDER=buildx-multi-arch
