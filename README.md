@@ -1,6 +1,6 @@
 # RedisInsight Docker Extension
 
-<img width="434" alt="image" src="https://user-images.githubusercontent.com/313480/188188018-a1976ed0-75cc-4bc2-a5df-7f67abaf9ebe.png">
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/313480/190139325-e93ac88f-2028-40ee-b947-e8dc6ac1657e.png">
 
 
 
