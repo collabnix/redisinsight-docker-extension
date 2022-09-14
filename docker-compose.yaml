@@ -7,7 +7,7 @@ services:
     networks:
       - redisnet
   redisinsight:
-    image: redislabs/redisinsight:latest
+    image: redislabs/redisinsight:1.13.0
     ports:
       - '8001:8001'
     volumes:

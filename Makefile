@@ -1,5 +1,5 @@
 IMAGE?=ajeetraina/redisinsight-docker-extension
-TAG?=latest
+TAG?=1.13.0
 
 BUILDER=buildx-multi-arch
 
