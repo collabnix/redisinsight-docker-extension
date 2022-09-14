@@ -12,7 +12,6 @@ It is an open source Redis GUI tool that allows you to visualise, monitor, and o
 This repository show how to run Redis GUI as a single-click installation using RedisInsight Docker Extension.
 
 
-![image](https://user-images.githubusercontent.com/313480/188182363-e7eac107-7a9d-40c3-9622-688252747611.png)
 
 
 
