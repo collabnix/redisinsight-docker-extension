@@ -44,6 +44,12 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
 ```shell
  make build-extension
 ```
+#### If you run into error: Failed to solve with frontend dockerfile.v0: failed to create LLB definition
+```
+export DOCKER_BUILDKIT=0
+export COMPOSE_DOCKER_CLI_BUILD=0
+```
+
 
 ## 3. Install the Extension
 
