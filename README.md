@@ -68,56 +68,11 @@ export COMPOSE_DOCKER_CLI_BUILD=0
  
  <img width="1157" alt="image" src="https://user-images.githubusercontent.com/313480/188198634-c51317d3-2379-4b64-953f-2e315861503d.png">
 
-### Step 2. Select "I already have database"
+### Step 2. Click "Apply Changes" to connect to the default Redis database
  
- <img width="1029" alt="image" src="https://user-images.githubusercontent.com/313480/188198988-b558c249-fa76-4de5-871c-c905bb5a3af3.png">
+ <img width="1035" alt="image" src="https://user-images.githubusercontent.com/34368930/196146204-7c8d5eec-a795-4bc1-9d17-0a74e3d3a53f.png">
 
 
-### Step 3. Enter the local database details to connect to Redis Database
 
 This extensions runs local Redis database too. It is included for testing purpose.
-Click "Connect to Redis Database" and enter the values
 
-<img width="1015" alt="image" src="https://user-images.githubusercontent.com/313480/188199135-23fe66a6-a6b6-46e3-be5c-b6bb5fe7a680.png">
-
-## Step 4. Enter your host details. 
-
-Please replace the host address with your local IP address. Click "Add Database".
-
- 
- <img width="952" alt="image" src="https://user-images.githubusercontent.com/313480/188199352-98c13515-7869-44eb-ae0c-dbec6ab9a052.png">
-
-
-### Step 5. Select the right database to view the dashboard UI.
- 
- <img width="1055" alt="image" src="https://user-images.githubusercontent.com/313480/188199604-69dd8f2d-7de3-4a6f-b35b-96635d9cfd05.png">
- 
- 
- ### Step 6. View the Keys
- 
- <img width="1173" alt="image" src="https://user-images.githubusercontent.com/313480/188200043-e49f0bbb-3abd-4b81-bb9a-1a307485636c.png">
-
- 
-
- 
-## Connecting to the Remote Database (Redis Enterprise Cloud)
-
- 
- ## Step 1. Connect to the remote Redis Cloud
- 
- 
- <img width="1398" alt="image" src="https://user-images.githubusercontent.com/313480/188183023-3513bc60-a0aa-425b-b7ba-0b44f074a876.png">
- 
- 
- ## Step 2. Access the Database
- 
- <img width="1306" alt="image" src="https://user-images.githubusercontent.com/313480/188183102-1d6bab60-f8e4-4e39-9d31-4023883fc649.png">
-
-
-
- 
- ## Step 3. Viewing the Keys
- 
- <img width="1257" alt="image" src="https://user-images.githubusercontent.com/313480/188184985-2c4d24fa-ad39-4827-9eaa-2e6407ac8c6f.png">
-
- 
