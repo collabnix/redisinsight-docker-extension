@@ -77,11 +77,11 @@ export COMPOSE_DOCKER_CLI_BUILD=0
 
 This extensions runs local Redis database too. It is included for testing purpose.
 
-### Step 4. Add a Redis key and assign a value
+### Step 3. Add a Redis key and assign a value
 
 <img width="1039" alt="image" src="https://user-images.githubusercontent.com/34368930/196147521-2e5bdff7-4427-4b7a-a85f-8fecd222e626.png">
 
-### Step 5. Verify the key/value
+### Step 4. Verify the key/value
 
 <img width="1106" alt="image" src="https://user-images.githubusercontent.com/34368930/196147804-0bf494b1-e36b-407d-bc7a-c185b4455ca7.png">
 
