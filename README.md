@@ -80,13 +80,14 @@ This extensions runs local Redis database too. It is included for testing purpos
 ### Step 3. Add a Redis key and assign a value
 
 <img width="1039" alt="image" src="https://user-images.githubusercontent.com/34368930/196147521-2e5bdff7-4427-4b7a-a85f-8fecd222e626.png">
+<img width="1047" alt="image" src="https://user-images.githubusercontent.com/34368930/196147709-ae0b3d49-1037-40b0-af75-21f35d35a888.png">
 
 ### Step 4. Verify the key/value
 
 <img width="1106" alt="image" src="https://user-images.githubusercontent.com/34368930/196147804-0bf494b1-e36b-407d-bc7a-c185b4455ca7.png">
 
 
-<img width="1047" alt="image" src="https://user-images.githubusercontent.com/34368930/196147709-ae0b3d49-1037-40b0-af75-21f35d35a888.png">
+
 
 
 ### Important Notes:
