@@ -23,7 +23,9 @@ This repository show how to run Redis GUI as a single-click installation using R
 
 RedisInsight is an intuitive and efficient GUI for Redis, allowing you to interact with your databases and manage your data—with built-in support for most popular Redis modules. It is an open source Redis GUI tool that allows you to visualise, monitor, and optimize while developing your applications with Redis.
 
-<img width="834" alt="image" src="https://user-images.githubusercontent.com/313480/190139325-e93ac88f-2028-40ee-b947-e8dc6ac1657e.png">
+
+<img width="1365" alt="image" src="https://user-images.githubusercontent.com/34368930/196145719-3c73af7a-020c-45db-9d53-7c2d743800da.png">
+
 
 ## Getting Started
 
