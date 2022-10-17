@@ -89,4 +89,7 @@ This extensions runs local Redis database too. It is included for testing purpos
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/34368930/196147709-ae0b3d49-1037-40b0-af75-21f35d35a888.png">
 
 
-
+### Important Notes:
+- This Extension only works for the default localhost
+- This extension doesn't work with the remote Redis Cloud instance
+- This extension doesn't work with the localhost with port other than 6379
