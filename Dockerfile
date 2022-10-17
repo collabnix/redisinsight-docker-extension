@@ -1,5 +1,5 @@
 FROM alpine
-LABEL org.opencontainers.image.title="RedisInsight Extension for Docker Desktop" \
+LABEL org.opencontainers.image.title="RedisInsight for Docker Desktop" \
     org.opencontainers.image.description="RedisInsight Docker Extensions" \
     org.opencontainers.image.vendor="Redis Inc" \
     com.docker.desktop.extension.api.version=">= 0.2.3" \
