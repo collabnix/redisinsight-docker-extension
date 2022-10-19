@@ -1,19 +1,22 @@
 services:
   redis:
-    image: redis/redis-stack:latest
+    image: redislabs/redismod
     ports:
       - 6379:6379
-      - 8001:8001
     networks:
       - redisnet
+  redisinsight:
+    image: redislabs/redisinsight:1.13.0
+    ports:
+      - '8001:8001'
     volumes:
       - redisinsight_db:/db
     networks:
       - redisnet
 
 volumes:
-  redisinsight_db: 
-  
-  
+  redisinsight_db:
+
+
 networks:
   redisnet:
