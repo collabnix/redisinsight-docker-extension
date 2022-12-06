@@ -28,7 +28,7 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
 
 ## Getting Started
 
-You can try it now! [![Install extension](https://img.shields.io/badge/-Install%20extension-white?logo=docker)](https://open.docker.com/extensions/marketplace?extensionId=collabnix/redisinsight-docker-extension&tag=1.13.0)
+You can try it now! [![Install RedisInsight extension](https://img.shields.io/badge/-Install%20RedisInsight%20extension-white?logo=docker)](https://open.docker.com/extensions/marketplace?extensionId=collabnix/redisinsight-docker-extension&tag=1.13.0)
 
 ### Pre-requisite
 
