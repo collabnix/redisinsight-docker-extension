@@ -2,6 +2,7 @@
 
 
 
+
 [![Docker Extension for RedisInsight](https://user-images.githubusercontent.com/313480/190151293-edd0432e-b168-47ec-8e65-ed20216b079d.png)](https://www.youtube.com/watch?v=12VXlRTFDWw)  |
 
 
@@ -26,6 +27,8 @@ RedisInsight is an intuitive and efficient GUI for Redis, allowing you to intera
 <img width="834" alt="image" src="https://user-images.githubusercontent.com/313480/190139325-e93ac88f-2028-40ee-b947-e8dc6ac1657e.png">
 
 ## Getting Started
+
+You can try it now! [![Install extension](https://img.shields.io/badge/-Install%20extension-white?logo=docker)](https://open.docker.com/extensions/marketplace?extensionId=collabnix/redisinsight-docker-extension&tag=1.13.0)
 
 ### Pre-requisite
 
